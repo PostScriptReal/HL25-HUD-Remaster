@@ -1,0 +1,8 @@
+This is the HLAM camera positioning settings I have for the Hgun screenshot I took, it's not exact but it's past 1AM and I can't be bothered so I did something close enough.
+Camera: Arc Ball
+FOV: 65
+Pitch: 316
+Yaw: 251
+Center: (X: 17.141977 Y: -11.617056 Z: -12.989705 )
+Distance: 32.99
+Projection Mode: Perspective
