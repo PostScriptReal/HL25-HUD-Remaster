@@ -1,0 +1,24 @@
+I'll be brief here, but turns out the Snark sprites are ALSO based on an earlier design, notice how the eye isn't sticking out as much.
+
+MODEL: w_squeak.mdl
+ANIMATION AND FRAME OF ANIMATION: Run animation at frame 3
+
+LEFT FACING SNARK
+Camera: Arc Ball
+FOV: 65
+Pitch: 12
+Yaw: 235
+Center: (X: 0.43425 Y: -0.903074 Z: 4.273685 )
+Distance: 10.42
+Projection Mode: Perspective
+
+SET THE ANIMATION FRAME TO 0
+RIGHT FACING SNARK
+Camera: Arc Ball
+FOV: 65
+Pitch: 342
+Yaw: 115
+Center: (X: 0.10132 Y: -0.380288 Z: 5.675798 )
+Distance: 13.42
+Projection Mode: Perspective
+MAKE SURE TO ROTATE THE SNARK MODEL ON THE X AXIS BY -55

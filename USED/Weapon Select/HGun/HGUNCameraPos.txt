@@ -1,4 +1,8 @@
 This is the HLAM camera positioning settings I have for the Hgun screenshot I took, it's not exact but it's past 1AM and I can't be bothered so I did something close enough.
+
+MODEL: v_hgun.mdl
+ANIMATION AND FRAME OF ANIMATION: First animation at frame 0
+
 Camera: Arc Ball
 FOV: 65
 Pitch: 316
