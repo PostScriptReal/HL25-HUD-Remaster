@@ -24,4 +24,4 @@ I used the following software for these source files, I recommend you have the s
 - Half-Life Asset Manager (Model screenshots, though any model viewer for Half-Life can do this)
 
 ## READ THIS BEFORE MODIFYING
-Most of the svg files seen here are based off of the sprites used at 720p-1440p, so if you are making modifications to the files except for the weapon select sprites, crossbow bolt icon and Snark icon, you can export them directly for 720p and higher. You will need to change the resolution it exports to if you are going to make the same change to the 4K (720p for the handful that are based on the 4K sprites) version of the sprite (which I'm sure you'll be doing).
+Most of the svg files seen here are based off of the sprites used at 720p-1440p, so if you are making modifications to the files except for the weapon select sprites, crossbow bolt icon and Snark icon, you can export them directly for 720p and higher. You will need to change the resolution it exports to if you are going to make the same change to the 2K version of the sprite (which I'm sure you'll be doing).
