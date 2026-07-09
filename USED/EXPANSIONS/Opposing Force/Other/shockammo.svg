@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="128"
+   height="128"
+   viewBox="0 0 128 128"
+   sodipodi:docname="shockammo.svg"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   inkscape:export-filename="shockammo.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient1"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0.50117385"
+         id="stop1" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop2" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1"
+       id="linearGradient2"
+       x1="23.779957"
+       y1="30.8419"
+       x2="59.187244"
+       y2="44.433483"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="35.532116"
+     inkscape:cy="54.093669"
+     inkscape:window-width="1920"
+     inkscape:window-height="1037"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g1"
+     style="display:none">
+    <image
+       width="128"
+       height="128"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeSpeed"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAAAAADmVT4XAAAAIGNIUk0AAHomAACAhAAA+gAAAIDo&#10;AAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAAAqo0jMgAAAAlwSFlzAAAOwwAADsMBx2+oZAAA&#10;AAd0SU1FB+oGFAQ5K44BewoAAAHBSURBVHja7dk/axNxGAfwz++aFitaB1ddHB0dXBwc7eTgKq4O&#10;Qqe6iThk8FX4BgQRwTfg6l7pe5DgH0olsck5hCvE9oJNT56kPJ/tchfy5bnf81x+HClY+fdLq+bq&#10;CXVnAaroCoQHmHcLbvKS+1wDAw454hsPObogFQgPkMLN64Kn9Kn5zg9uNPPnAfsUxh1MpPBFGB7g&#10;DM+Cv2wyZLLyFQgP0Gs7scU+a9RUTan7vGEI6m4eyuEVCA+wYBes8/uCVCA8wOm3YJMddmfX+W0O&#10;GaFpjToHUQfO3AWFwjpXOWB43nEUXoHwAL1TP7rFp9nb8xncbQ5rPvKCrytfgfAAi/8jOv5+dsH5&#10;lJPHFX0eNzNno6nz8dgf8ZZXDBmvfAXCA6Rw5TK/ZofJdPH3mFC4wzs2mi4Ysc2XzgKEL8LwAClc&#10;ucLBnNPscb1pkz22O9uUTYUvwvAAi+wLuntZsAwVCA/Qq1p2uNNnwS7PqfnJPQYd138ZKhAeIIVr&#10;HUQVj3jNFs/40NlrspO/Eys8QApX2j69xHsKTxh0sAtuE74IwwOUOScq1hj/x/ovQwXCA6SUUkop&#10;pZRSSimllFJKKaWU0h+9Y01ltKPBVwAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyNi0wNi0xOFQwODoz&#10;NjozNCswMDowMKM7hbYAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjYtMDYtMThUMDg6MzY6MzQrMDA6&#10;MDDSZj0KAAAAKHRFWHRkYXRlOnRpbWVzdGFtcAAyMDI2LTA2LTIwVDA0OjU3OjQzKzAwOjAw91X3&#10;DwAAAABJRU5ErkJggg==&#10;"
+       id="image1" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Layer 1">
+    <rect
+       style="display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke-width:3"
+       id="rect1"
+       width="128.00082"
+       height="128.00305"
+       x="0"
+       y="0.00390625"
+       inkscape:label="BG" />
+    <path
+       style="opacity:1;fill:url(#linearGradient2);stroke-width:3"
+       d="m 26.874705,67.893381 h 6.638297 L 60.446764,30.216277 H 39.103172 L 51.459989,7.383833 31.507207,7.3819942 22.520432,38.347379 h 14.068583 z"
+       id="path1"
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:label="Bolt" />
+  </g>
+</svg>

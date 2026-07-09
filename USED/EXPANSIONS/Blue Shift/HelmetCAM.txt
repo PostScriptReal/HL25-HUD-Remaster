@@ -1,0 +1,9 @@
+ROTATE THE MODEL ON THE X AXIS BY 40
+
+Pitch: 350
+Yaw: 200
+Distance: 18.97
+Centre:
+    X: -0.669131
+    Y: 0.743145
+    Z: 10.039256

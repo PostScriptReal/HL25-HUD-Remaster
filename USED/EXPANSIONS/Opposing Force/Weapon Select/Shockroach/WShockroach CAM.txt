@@ -1,0 +1,9 @@
+MAKE SURE CAMERA IS SET TO ORTHOGRAPHIC
+
+Pitch: 0
+Yaw: 270
+Distance: 14.10
+Centre:
+    X: 0
+    Y: 0
+    Z: 6.755266

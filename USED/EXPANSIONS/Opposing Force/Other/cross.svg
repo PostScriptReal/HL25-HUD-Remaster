@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="128"
+   height="128"
+   viewBox="0 0 128 128"
+   sodipodi:docname="cross.svg"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   inkscape:export-filename="cross.png"
+   inkscape:export-xdpi="64"
+   inkscape:export-ydpi="64"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter2"
+       x="-0.30056776"
+       y="-0.30012723"
+       width="1.6011355"
+       height="1.6002545">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="6.5987779"
+         id="feGaussianBlur2" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="4"
+     inkscape:cx="58.375"
+     inkscape:cy="88"
+     inkscape:window-width="1920"
+     inkscape:window-height="1037"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer5" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g1">
+    <image
+       width="128"
+       height="128"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeSpeed"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAAAAADmVT4XAAAAIGNIUk0AAHomAACAhAAA+gAAAIDo&#10;AAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAAAqo0jMgAAAAlwSFlzAAAOwwAADsMBx2+oZAAA&#10;AAd0SU1FB+oGFAQ5G6jYS6YAAAKQSURBVHja7drBixxFFMfxT3fPzi4JbCLGlbBBUBH/Ay8SkIT8&#10;FyLk4M2DB2855ewhOeTg3xBQ8ejRi/+BJHrdXVCIYMiabLIz3R5mq6mJMbPr5THwvoehq7qqeQy/&#10;X9d7VU0STLOiXTGc7hGDM9FG/wPhASThvMIFTbkYGKoRr3fBUE05C+EiDA8gCadR6XzU/+KiA5Mi&#10;lI6mdB7R0jNnzsCsuKDmFI4IF2F4AEk4Jy5olrtGPW+xywd8ykfLM3/mJx7yC0e8KP392RaFcBGG&#10;B5CE03SVXBf6X8iiB++ww3vcXHZBz4/c54Bfecp8OYnqy+8qwkUYHkASTrMQQVv0v8Um6LnARc6x&#10;wy0+XJ75LT+wzwGP6Jgxoy05UrogWROaMeefMuUSN/iKC7R0dMUjXTVtofOxLuh5zNd8xxFPi/7n&#10;qwMIF2F4AEk4zULeE6ac522u8QVvgglomZTqGANzZkXqM/An97jPIYfVsFWEizA8gCScpi0i32Cb&#10;t7jKl1xkUlzQFQuMJcNQVgElEfqLu3zPE56VW+mCZB1o2moLdErPebZKnrPLFT7hJhvVtIFv2GeP&#10;P+h4xh6PmVX7RemCZB1o2uWNzUlpbtBxjvf5mM/ZrabNuMMDHrJfKmL8XeyT1XGyPpycF3TMiyCG&#10;Ug5vss0bXOcz3i0J0qIQuM0eD/idnp4Zx9VZQ1+5478JF2F4AEk4Jy5oq+VgPEGeskHLDpfZLu/2&#10;RVHwG8855rC4YF45aCgrwirCRRgeQBJO8+9GU1aHoaRGm2XXdKje80ryc8xxSYGa04p/JFyE4QEk&#10;4bzum9LhlSOWGceMiVB+TZesG81p7o1Jzkse6avr/0u4CMMDSJIkSZIkSZIkSZIk+QdiV6ZRIuQO&#10;3wAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyNi0wNi0xNlQwNzo0NzozNCswMDowMGIw2JUAAAAldEVY&#10;dGRhdGU6bW9kaWZ5ADIwMjYtMDYtMTZUMDc6NDc6MzQrMDA6MDATbWApAAAAKHRFWHRkYXRlOnRp&#10;bWVzdGFtcAAyMDI2LTA2LTIwVDA0OjU3OjI3KzAwOjAwxXXamwAAAABJRU5ErkJggg==&#10;"
+       id="image1" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="Layer 1"
+     style="display:inline">
+    <rect
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:13.5852;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2"
+       width="134.25"
+       height="140"
+       x="-2.25"
+       y="-9.75"
+       inkscape:label="BG" />
+    <path
+       style="mix-blend-mode:normal;fill:none;stroke:#ffffff;stroke-width:15;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter2)"
+       d="M 21.511514,46.448077 H 74.202018 48.505596 V 73.80427 21.036427"
+       id="path2"
+       sodipodi:nodetypes="ccccc"
+       inkscape:label="CrossBG" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:15;stroke-dasharray:none;stroke-opacity:1"
+       d="M 21.511514,46.448077 H 74.202018 48.505596 V 73.80427 21.036427"
+       id="path1"
+       sodipodi:nodetypes="ccccc"
+       inkscape:label="Cross" />
+  </g>
+</svg>

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="128"
+   height="128"
+   viewBox="0 0 128 128"
+   sodipodi:docname="spore.svg"
+   inkscape:export-filename="spore.png"
+   inkscape:export-xdpi="64"
+   inkscape:export-ydpi="64"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient5"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="0.49720314"
+         id="stop6" />
+    </linearGradient>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter2"
+       x="-0.108"
+       y="-0.108"
+       width="1.216"
+       height="1.216">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.1650713"
+         id="feGaussianBlur2" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter3"
+       x="-0.108"
+       y="-0.108"
+       width="1.216"
+       height="1.216">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.1650713"
+         id="feGaussianBlur3" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4"
+       x="-0.108"
+       y="-0.108"
+       width="1.216"
+       height="1.216">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.1650713"
+         id="feGaussianBlur4" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5"
+       id="linearGradient6"
+       x1="73.326164"
+       y1="33.774475"
+       x2="9.1842871"
+       y2="33.774475"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="2.3867188"
+     inkscape:cx="63.057283"
+     inkscape:cy="5.8657938"
+     inkscape:window-width="1920"
+     inkscape:window-height="1037"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g1">
+    <image
+       width="128"
+       height="128"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeSpeed"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAAAAADmVT4XAAAAIGNIUk0AAHomAACAhAAA+gAAAIDo&#10;AAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAAAqo0jMgAAAAlwSFlzAAAOwwAADsMBx2+oZAAA&#10;AAd0SU1FB+oGFAQ5L4lsvxMAAAHkSURBVHja7dkxa1NhFAbgJ2m8tqUNLehgRbTS6uAqRdwcHOwi&#10;gqMiiD/Bv+DgKIKIv0GcSwcVdVGE0kkQpIOgDZZKSVCxbeLQVlOJWNrAIXqe6d5wL7yc75zkfjek&#10;YKUdXlSwRol1Wt0MUI6uQHiAvyxBmSGqDNLiK3XqNP+dCoQHSOH+OAUVDjHNGUboA00+84THfOjO&#10;LIQ3YXiAFK7zFFSY5CbnOLjVKC3KLPGSFzyk1oVf5/AmDA+QwpU6flRhglmqfKTGAQqGGOAdt3nO&#10;J9b2GiC8CcMDpHAdpqCgyjBj3OAUExSsMscc72nQYpE5Fvf0aBTehOEBSr+ddHXn2xMVCA9Qaj8a&#10;ZIrrnKVCnRVqvKJGnROcZJzDFLRY4A5PWe7VCoQH+LUE/Xz7HysQHqDyM8cIF7nGxPavpyZvuMsk&#10;lxijTKntmrfcYrZXKxAeIIXb7OWN7fAVznOsrTM23k4/4wHHucoR+ramoMUq89xjZpcBwpswPEAK&#10;tzkFZYY5zTRTHGU/WGOB+8xQcJkLjFOwzhLzPOJ1PhGlHrZta7aPAUapUmGVBss0aFKiTD/DjFLm&#10;Cys0+L77AOFNGB4ghdvR3/cdb2ttP9it8CYMD5BSSimllFJKKaWUUkoppZRSSincD/9tV0S4nzQH&#10;AAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDI2LTA2LTE4VDA4OjM3OjAzKzAwOjAwB9HX5QAAACV0RVh0&#10;ZGF0ZTptb2RpZnkAMjAyNi0wNi0xOFQwODozNzowMyswMDowMHaMb1kAAAAodEVYdGRhdGU6dGlt&#10;ZXN0YW1wADIwMjYtMDYtMjBUMDQ6NTc6NDcrMDA6MDADGtMcAAAAAElFTkSuQmCC&#10;"
+       id="image1" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 1">
+    <rect
+       style="display:inline;fill:#000000;fill-opacity:1;stroke-width:3"
+       id="rect2"
+       width="128.00363"
+       height="128.00543"
+       x="0"
+       y="-0.00390625"
+       inkscape:label="BG" />
+    <circle
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke-width:3;filter:url(#filter4)"
+       id="path1"
+       cx="25.355545"
+       cy="48.14344"
+       r="12.945236"
+       inkscape:label="SporeBL" />
+    <circle
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke-width:3;filter:url(#filter3)"
+       id="circle1"
+       cx="42.259243"
+       cy="21.397085"
+       r="12.945236"
+       inkscape:label="SporeTop" />
+    <circle
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke-width:3;filter:url(#filter2)"
+       id="circle2"
+       cx="57.599949"
+       cy="48.14344"
+       r="12.945236"
+       inkscape:label="SporeBR" />
+    <rect
+       style="fill:url(#linearGradient6);fill-opacity:1;stroke-width:3.09196"
+       id="rect5"
+       width="64.141876"
+       height="58.364662"
+       x="9.1842871"
+       y="4.5921435"
+       inkscape:label="Contrast" />
+  </g>
+</svg>

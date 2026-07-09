@@ -1,0 +1,9 @@
+PROJECTION MODE NEEDS TO BE ORTHOGRAPHIC
+
+Pitch: 357
+Yaw: 270
+Distance: 20.60
+Centre:
+    X: -4.998173
+    Y: -0.191949
+    Z: 5.344936
